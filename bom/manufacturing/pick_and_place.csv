@@ -1,0 +1,4 @@
+Designator,Mid X (mm),Mid Y (mm),Rotation (deg),Layer,Footprint
+U1,50.000,30.000,0,Top,QFN-48
+Q1,20.000,40.000,90,Top,SOT-23
+...
