@@ -1,0 +1,6 @@
+Designator,Quantity,Value,Footprint,MPN,Distributor,UnitPrice
+U1,1,STM32WB55CEU6,QFN-48,STM32WB55CEU6TR,Digikey,$6.49
+U2,1,MC33972,TSSOP-32,MC33972ATEWR2,Mouser,$5.44
+...
+Q1–Q8,8,SI2318A-TP,SOT-23,SI2318A-TP,Digikey,$0.21
+...
